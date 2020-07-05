@@ -1,0 +1,26 @@
+/* 
+    shixiuyin
+    2020-6-19 23:59:33
+*/
+body{
+    font-family: Microsoft YaHei;
+    font-size: 12px;
+    background-color: #dfdfdf;
+    margin: 0;
+    padding: 0;
+}
+
+div#app{
+    width: 1200px;
+    margin: 0 auto;
+    /* padding-top: 165px; */
+}
+
+div.header{
+    height: 85px;
+    background-color: #ffffff;
+    width: 1200px;
+    position: fixed;
+    top: 0px;
+    z-index: 999;
+}
